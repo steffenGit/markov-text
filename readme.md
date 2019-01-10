@@ -1,0 +1,1 @@
+quick and dirty markov chain text generator in js.
